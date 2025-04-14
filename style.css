@@ -132,3 +132,18 @@ body{
   }
 }
 
+@media screen and (max-width: 480px) {
+  .center h1 {
+    font-size: 24px;
+  }
+
+  input[type="Submit"] {
+    height: 45px;
+    font-size: 16px;
+  }
+
+  .signup_link {
+    font-size: 14px;
+  }
+}
+
